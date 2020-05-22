@@ -1,5 +1,5 @@
 from .base import *
-ALLOWED_HOSTS = ['18.182.179.243']
+ALLOWED_HOSTS = ['18.182.179.243', 'jjjokpa13.gq']
 
 STATIC_ROOT = os.path.join(BASE_DIR, 'static/')
 
